@@ -1,4 +1,4 @@
-# Clustering HW (COSC 3337- Madeline Adair)
+# Clustering
 
 - Install a Virtual Environment using Venv
 
