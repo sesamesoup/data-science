@@ -1,4 +1,4 @@
-# Classification HW (COSC 3337- Madeline Adair)
+# Classification HW
 
 - Install a Virtual Environment using Venv
 
