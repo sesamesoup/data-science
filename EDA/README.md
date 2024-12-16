@@ -1,7 +1,5 @@
 # Exploratory Data Analysis
 
-### Name: Madeline Adair
-
 Install a Virtual Environment using Venv
 
 `pip install virtualenv`
